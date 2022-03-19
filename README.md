@@ -1,6 +1,6 @@
 # React Art Magazine / Team Project
 
-This project was created by me and four classmates at Codecool, in collaboration with teams from the backend, sysadmin and manual testing courses. The main idea was to create a webapp which, after basic authentication, allows the user to search for artworks using the Art Institute Chicago API, save any of the results to their own collection, append tags and comments to the individual pieces of art, as well as rate them with stars. 
+This project was created by me and four classmates at Codecool, in collaboration with teams from the backend, sysadmin and manual testing courses. The main idea was to create a webapp which, after basic authentication, allows the user to search for artworks using the Art Institute Chicago API, save any of the results to their own collection, append tags and comments to the individual pieces of art, as well as rate them with stars. Saved artworks and any data added by the user should then be sent to a backend server.
 
 ## Design and Wireframing
 
