@@ -12,4 +12,4 @@ The design of the page, as well as initial sketches and a high-fidelity wirefram
 
 Any search query longer than 2 characters is sent to the Artic API. Additionally, the search function accepts other parameters specifying the type of data we wish to get back from the API, such as 'thumbnail' or 'place_of_origin'. If the response contains no data, or the request fails, the error is caught. Otherwise, the results are saved into a state, then individual cards are rendered out by mapping through the results. 
 
-![search results layout](https://github.com/agolautner/react-art-magazine-frontend/blob/main/screenshots/search-results.png?raw=true)
+![search results layout](https://github.com/agolautner/react-art-magazine-frontend/blob/main/wireframe/search-results.png?raw=true)
